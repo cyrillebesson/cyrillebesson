@@ -11,9 +11,8 @@
 🐦 You can contact me on [Twitter](https://twitter.com/cyrillebesson) or [Linkedin](https://www.linkedin.com/in/cyrillebesson/)
 <hr>
 
-### Skills
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrillebesson&layout=compact)](https://github.com/cyrillebesson/github-readme-stats)
 
-<img src="https://img.shields.io/badge/UI/UX-Design-green"> <img src="https://img.shields.io/badge/HTML-5-blue"> <img src="https://img.shields.io/badge/CSS-3-yellow">
 
 <hr>
 
