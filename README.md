@@ -8,7 +8,7 @@
 
 🤔 I’m looking for help to set Nextcloud on an intel NUC / Ubuntu Server
 
-🐦 You can contact me on Twitter ( @cyrillebesson )
+🐦 You can contact me on [Twitter](https://twitter.com/cyrillebesson)
 
 <!--
 **cyrillebesson/cyrillebesson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
