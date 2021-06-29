@@ -6,7 +6,7 @@
 
 🌱 Ecology, Open-Source, Privacy & Crypto Enthusiast
 
-🤔 I’m looking for help to set Nxtcloud on an intel NUC / Ubuntu Server
+🤔 I’m looking for help to set Nextcloud on an intel NUC / Ubuntu Server
 
 🐦 You can contact me on Twitter ( @cyrillebesson )
 
