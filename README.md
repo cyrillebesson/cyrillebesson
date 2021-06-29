@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🌳 UI / UX Designer
+
+🌿 HTML / CSS Explorer
+
+🌱 Ecology, Open-Source, Privacy & Crypto Enthusiast
+
 <!--
 **cyrillebesson/cyrillebesson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
