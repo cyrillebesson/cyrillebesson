@@ -2,9 +2,13 @@
 
 🌳 UI / UX Designer
 
-🌿 HTML / CSS Explorer
+🌿 HTML & CSS Explorer
 
 🌱 Ecology, Open-Source, Privacy & Crypto Enthusiast
+
+🤔 I’m looking for help to set Nxtcloud on an intel NUC / Ubuntu Server
+
+🐦 You can contact me on Twitter ( @cyrillebesson )
 
 <!--
 **cyrillebesson/cyrillebesson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
