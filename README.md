@@ -13,7 +13,7 @@
 
 ### Skills
 
-<img src="https://img.shields.io/badge/UI-Design-green"> <img src="https://img.shields.io/badge/HTML-5-blue"> <img src="https://img.shields.io/badge/CSS-3-yellow">
+<img src="https://img.shields.io/badge/UI/UX-Design-green"> <img src="https://img.shields.io/badge/HTML-5-blue"> <img src="https://img.shields.io/badge/CSS-3-yellow">
 
 <hr>
 
