@@ -13,7 +13,7 @@
 
 ### Skills
 
-https://img.shields.io/badge/HTML-5-blue
+<img src="https://img.shields.io/badge/HTML-5-blue">
 
 <hr>
 
