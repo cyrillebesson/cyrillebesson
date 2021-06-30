@@ -21,4 +21,4 @@
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://cyrillebesson.ch/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/cyrillebesson) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cyrillebesson)
-[<img src = "https://img.shields.io/badge/buymeacoffee-%000.svg?&style=for-the-badge&logo=coffeescript&logoColor=black">](https://www.buymeacoffee.com/cyrillebesson)
+[<img src = "https://img.shields.io/badge/buymeacoffee-%123.svg?&style=for-the-badge&logo=coffeescript&logoColor=black">](https://www.buymeacoffee.com/cyrillebesson)
