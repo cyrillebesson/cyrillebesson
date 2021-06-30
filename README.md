@@ -12,19 +12,14 @@
 
 <hr>
 
- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyrillebesson&theme=algolia&show_icons=true&include_all_commits=true&count_private=true&hide=issues)
+### Skills
 
-<!--
-**cyrillebesson/cyrillebesson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+### Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://cyrillebesson.ch/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/cyrillebesson) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cyrillebesson)
+[<img src = "https://img.shields.io/badge/buymeacoffee-%23E4405F.svg?&style=for-the-badge&logo=coffee&logoColor=white">](https://www.buymeacoffee.com/cyrillebesson)
+[![Visits Badge](https://badges.pufler.dev/visits/RahulMahesh62/RahulMahesh62?style=for-the-badge)](https://github.com/RahulMahesh62)
