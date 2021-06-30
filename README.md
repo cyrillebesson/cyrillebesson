@@ -14,11 +14,12 @@
 
 ### Skills
 
+<img src ="https://img.shields.io/badge/UI Design-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">
+
 <hr>
 
 ### Contact
 
-<a href="https://cyrillebesson.ch" target="_blank"><img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"></a>
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://cyrillebesson.ch/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/cyrillebesson) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cyrillebesson)
