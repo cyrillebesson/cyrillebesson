@@ -14,7 +14,7 @@
 [<img src ="https://img.shields.io/badge/HTML5-%2390D7FF.svg?&style=for-the-badge&logo=&logoColor=white%22">](#)
 [<img src ="https://img.shields.io/badge/CSS3-%23faf0a3.svg?&style=for-the-badge&logo=&logoColor=white%22">](#)
 [<img src ="https://img.shields.io/badge/UI Design-%23FAA381.svg?&style=for-the-badge&logo=&logoColor=white%22">](#)
-[<img src ="https://img.shields.io/badge/UX Design-%23E78895.svg?&style=for-the-badge&logo=&logoColor=white%22">](#)
+[<img src ="https://img.shields.io/badge/UX Design-%23EA99A4.svg?&style=for-the-badge&logo=&logoColor=white%22">](#)
 
 
 ### Contact
