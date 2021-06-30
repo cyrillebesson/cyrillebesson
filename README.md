@@ -11,10 +11,10 @@
 
 ### Skills
 
-[<img src ="https://img.shields.io/badge/HTML5-%234e42f9.svg?&style=for-the-badge&logo=&logoColor=white%22">]()
-[<img src ="https://img.shields.io/badge/CSS3-%23faf0a3.svg?&style=for-the-badge&logo=&logoColor=white%22">]()
-[<img src ="https://img.shields.io/badge/UI Design-%23f58f8d.svg?&style=for-the-badge&logo=&logoColor=white%22">]()
-[<img src ="https://img.shields.io/badge/UX Design-%23cb355f.svg?&style=for-the-badge&logo=&logoColor=white%22">]()
+[<img src ="https://img.shields.io/badge/HTML5-%234e42f9.svg?&style=for-the-badge&logo=&logoColor=white%22">](#)
+[<img src ="https://img.shields.io/badge/CSS3-%23faf0a3.svg?&style=for-the-badge&logo=&logoColor=white%22">](#)
+[<img src ="https://img.shields.io/badge/UI Design-%23f58f8d.svg?&style=for-the-badge&logo=&logoColor=white%22">](#)
+[<img src ="https://img.shields.io/badge/UX Design-%23cb355f.svg?&style=for-the-badge&logo=&logoColor=white%22">](#)
 
 
 ### Contact
