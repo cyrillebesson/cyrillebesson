@@ -6,8 +6,6 @@
 
 🌱 Sustainability, Open-Source, Privacy & Crypto Enthusiast
 
-🤔 I’m looking for help to set Nextcloud on an intel NUC / Ubuntu Server
-
 
 ### Skills
 
