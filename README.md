@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌳 UI / UX Designer
+🌳 Digital Designer ( UI / UX )
 
 🌿 HTML & CSS Explorer
 
