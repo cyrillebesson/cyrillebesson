@@ -2,9 +2,9 @@
 
 🌳 Digital Designer ( UI / UX )
 
-🌿 HTML & CSS Explorer
+🌿 HTML / CSS Developer
 
-🌱 Sustainability, Open-Source, Privacy & Crypto Enthusiast
+🌱 Sustainability, Open-Source, Privacy & Ethical Tech Enthusiast
 
 
 ### Skills
